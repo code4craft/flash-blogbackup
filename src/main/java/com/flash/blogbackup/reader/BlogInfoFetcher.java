@@ -1,0 +1,1 @@
+package com.flash.blogbackup.reader;import com.diandian.transfer.model.ExternalBlogInfo;/** * 从html中抓取blog信息 *  * @author cairne huangyihua@diandian.com * @date Sep 28, 2011 */public interface BlogInfoFetcher {    public ExternalBlogInfo fetch(String content, String username);}

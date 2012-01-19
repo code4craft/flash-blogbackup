@@ -1,0 +1,1 @@
+package com.flash.blogbackup.console;import javax.swing.JComponent;/** * @author cairne huangyihua@diandian.com * @date Oct 4, 2011 */public interface JComponentObserver<T extends JComponent> {    public void refresh();    public void setComponent(T t);}

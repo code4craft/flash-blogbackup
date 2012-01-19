@@ -1,0 +1,1 @@
+package com.flash.blogbackup.runner;/** * @author cairne huangyihua@diandian.com * @date Sep 27, 2011 */public class FetchImages {}

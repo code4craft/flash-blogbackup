@@ -1,0 +1,1 @@
+package com.flash.blogbackup.main;/** * @author cairne huangyihua@diandian.com * @date Sep 27, 2011 */public class Main {    /**     * @param args     */    public static void main(String[] args) {        // TODO Auto-generated method stub        MainFrame mainFrame = MainFrame.instance;        mainFrame.setVisible(true);    }}
